@@ -1,2 +1,14 @@
-# intro-to-web-design
-Class assignments and projects from my Web Design course.
+# Introduction to Web Design
+
+This repository contains assignments and projects completed for my Introduction to Web Design course.
+
+## Topics
+
+* HTML
+* CSS
+* Web page structure and layout
+* Basic web design concepts
+
+## Course Work
+
+Assignments and projects will be added throughout the course.
